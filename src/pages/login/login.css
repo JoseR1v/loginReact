@@ -1,0 +1,33 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 35rem;
+    background-color: white;
+    border-radius: 8px;
+    padding: 3.5rem;
+    box-shadow: 8px 5px 5px rgba(0, 0, 0, 0.2);
+    height: max-content;
+}
+
+.input-container {
+    width: 90%;
+}
+
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 2rem;
+}
+
+.button {
+    margin-top: 2rem;
+    justify-self: flex-end;
+}
+
+.error {
+    color: red;
+    font-size: smaller;
+}

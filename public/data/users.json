@@ -1,0 +1,7 @@
+{
+    "1": { "nombre": "Juan", "apellidoMaterno": "López", "apellidoPaterno": "Pérez" },
+    "2": { "nombre": "María", "apellidoMaterno": "Hernández", "apellidoPaterno": "García" },
+    "3": { "nombre": "Luis", "apellidoMaterno": "Suarez", "apellidoPaterno": "Ortiz" },
+    "4": { "nombre": "María Fernanda", "apellidoMaterno": "Jimenez", "apellidoPaterno": "Alonso" }
+  }
+  

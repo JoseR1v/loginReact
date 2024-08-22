@@ -1,0 +1,22 @@
+.custom-button {
+    padding: 1rem 2.5rem;
+    background-color: #2e6b26;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: 600;
+    font-size: 1rem;
+    text-transform: uppercase;
+  }
+  
+  .custom-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .custom-button:hover:not(:disabled) {
+    background-color: #36922a;
+  }
+  
